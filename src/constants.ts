@@ -18,7 +18,7 @@ interface Social {
 
 export const SOCIALS: Social[] = [
   {
-    name: "Fecebook",
+    name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
     icon: IconFacebook,
